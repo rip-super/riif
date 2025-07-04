@@ -8,7 +8,7 @@ It features a complete lossless compression format and a native image viewer wit
 ## 📦 Features
 
 - 🧪 Custom RIIF image format (`.riif`)
-- 🖼️ Image compression + decompression using PNG-style filters and [`DEFLATE`](https://crates.io/crates/flate2) Compression
+- 🖼️ Image compression + decompression using PNG-style filters and [`DEFLATE`](https://crates.io/crates/flate2) compression
 - 🧵 Image viewer built with [`eframe`](https://github.com/emilk/egui)
 - 🔍 Smooth zooming (slider & scroll wheel)
 - 📦 CLI for converting to and from `.riif`
